@@ -14,7 +14,7 @@
 >By Subrata
 
 -----
-#### Live Deployed Website : [here](https://hostinglandingpage2.netlify.app/)
+#### Live Deployed Website : [here](https://busineslanding-page.netlify.app/)
 
 ---
 ### What I learned from this Project?
