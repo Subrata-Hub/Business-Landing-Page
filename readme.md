@@ -1,3 +1,9 @@
+
+
+
+
+
+
 ![badge](https://img.shields.io/badge/Made%20With-HTML%20%26%20CSS-brightgreen)
 ![badge](https://img.shields.io/badge/Mobile%20Responsive-No-orange)
 ![badge](https://img.shields.io/badge/Deployed-Yes-green)
@@ -23,6 +29,6 @@
 #### How the website looks ike
 ---
 
-![](demo.mp4)
+[](https://user-images.githubusercontent.com/116452735/200123370-2e168918-f531-4727-a814-667fab43a6d0.mp4)
 
 ***
